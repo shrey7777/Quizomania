@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url(mathsbackground.jpg);
+}
+.login_div1 , .login_div2
+	{
+		background:#FF5722;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 500px;
+	}
+	
+ 
